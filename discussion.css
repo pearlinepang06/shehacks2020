@@ -1,0 +1,27 @@
+css part: textarea {
+ height: 100px;
+  width: 100x;
+}
+.checkbox {
+  order: 1;
+  align-self: center;
+}
+.yesgroup {
+order: 2;
+}
+.nogroup {
+  order: 2;
+}
+h1 {
+color: #145A32
+}
+h2 {
+  color: #556B2F;
+}
+.boxed {
+  border: 1px solid green ;
+height: 150px;
+  width: 100x;
+  background-color: #FFF8DC;
+}
+ <img src="https://thumbs.dreamstime.com/b/singapore-debate-concept-d-rendering-singapore-debate-concept-d-rendering-isolated-white-background-146133859.jpg" alt="Image" height="10" width="0.5">

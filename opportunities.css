@@ -1,0 +1,11 @@
+body {background-color: #DAF7A6;}
+.square {
+  height: 40px;
+  width: 650px;
+  background-color: #FFF8DC;
+}
+.square2 {
+  height: 20px;
+  width: 650px;
+  background-color: #FFF8DC;
+}

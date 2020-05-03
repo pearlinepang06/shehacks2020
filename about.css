@@ -1,0 +1,20 @@
+body {
+  font-family: Arial;
+  padding: 20px;
+  background: #DAF7A6;
+}
+.square {
+  height: 100px;
+  width: 800px;
+  background-color: #FFF8DC;
+}
+.openingimage {
+  order: 1;
+  align-self: centre;
+}
+.body1 {
+  flex-flow: column;
+  height: 30%;
+  align-self: right
+}
+@media screen and (max-width: 800px) {

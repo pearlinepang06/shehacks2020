@@ -1,0 +1,45 @@
+body {background-color: #DAF7A6;}
+.square {
+  height: 40px;
+  width: 650px;
+  background-color: #FFF8DC;
+}
+.square {
+    order:1;
+    display:flex;
+  font-family: Arial;
+  padding: 50px;
+  background: #DAF7A6;
+  height: 8px;
+  width: 650px;
+  background-color: #F9D894;
+}
+.
+.intro {
+  order:2;
+  background-color:white;
+  padding:20px;
+  margin-top:20px;
+}
+div.a {
+  text-align: left;
+}
+.submissions {
+    order:3;
+      align-self: left;
+    display:flex;
+    float: left;
+  padding: 100px;
+  background: #DAF7A6;
+  height: 30px;
+  width: 650px;
+  background-color: #F9D894;
+}
+.mydiv3 {
+  padding: 20px;
+  background: #DAF7A6;
+  height: 15px;
+  width: 300px;
+  background-color: white;
+  }
+  
